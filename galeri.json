@@ -1,0 +1,27 @@
+[
+    {
+      "judul": "Belajar Bersama di Kelas",
+      "gambar": "kegiatan1.jpeg",
+      "deskripsi": "Kegiatan belajar mengajar siswa kelas 4 SDN Rengasdengklok Selatan 3 bersama mahasiwi magang."
+    },
+    {
+      "judul": "baris sebelum proses belajar",
+      "gambar":"kegiatan2.jpeg",
+      "deskripsi": "murid akan berbaris didepan kelas sebelum memasuki kelas untuk pelajran pertama."
+    },
+    {
+      "judul": "proses belajar",
+      "gambar": "kegiatan3.jpeg",
+      "deskripsi": "prosesn belajar menggunakan teknologi."
+    },
+    {
+      "judul": "Senam Pagi",
+      "gambar": "belajar.jpeg",
+      "deskripsi": "Senam bersama untuk menjaga kebugaran siswa dan guru setiap Jumat pagi."
+    },
+    {
+      "judul": "Belajar Bersama di Kelas",
+      "gambar": "assets/galeri/belajar.jpg",
+      "deskripsi": "Kegiatan belajar mengajar siswa kelas 4 SDN Rengasdengklok Selatan 3."
+    }
+  ]

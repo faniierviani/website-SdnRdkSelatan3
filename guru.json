@@ -1,0 +1,17 @@
+[
+    {
+      "nama": "Bapak Ahmad Hadi",
+      "mapel": "Matematika",
+      "foto": "https://via.placeholder.com/150"
+    },
+    {
+      "nama": "Ibu Siti Aminah",
+      "mapel": "Bahasa Indonesia",
+      "foto": "https://via.placeholder.com/150"
+    },
+    {
+      "nama": "Bapak Deni Saputra",
+      "mapel": "IPA",
+      "foto": "https://via.placeholder.com/150"
+    }
+  ]

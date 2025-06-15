@@ -1,0 +1,17 @@
+[
+    {
+      "nama": "Ruang Kelas",
+      "deskripsi": "Tersedia ruang kelas yang nyaman dan dilengkapi dengan papan tulis, meja kursi siswa dan guru.",
+      "foto": "ruang_kelas.jpeg"
+    },
+    {
+      "nama": "Perpustakaan",
+      "deskripsi": "Memiliki koleksi buku pelajaran dan bacaan yang mendukung literasi siswa.",
+      "foto": "perpustakaan.jpeg"
+    },
+    {
+      "nama": "Lapangan Olahraga",
+      "deskripsi": "Lapangan serbaguna untuk kegiatan olahraga seperti sepak bola, voli, dan upacara.",
+      "foto": "lapangan_olahraga.jpeg"
+    }
+  ]
